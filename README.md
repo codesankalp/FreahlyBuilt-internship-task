@@ -2,9 +2,12 @@
 
 ## Run the server using
 
-$ export FLASK_APP=server.py
+$ python server.py
 
-$ flask run
+## To send mail
+
+$ please set email and password in server.py before running server.
+$ also allow less secure app to send messages.
 
 ## extra functionality :
 
